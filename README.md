@@ -7,5 +7,5 @@ it on when is a odd minute and turning it off when is a even minute.
 
 Dependences:                    
 *ESP32 AND A USB CABLE THAT CAN TRANSMIT DATA.    
-*EXPRESSIF SOFTWARE THAT ARE NEEDED.
+*EXPRESSIF SOFTWARE THAT ARE NEEDED.                               
 *CONFIGURE THE WI-FI BY "idf.py menuconfig" in esp32 terminal.
